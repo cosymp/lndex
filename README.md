@@ -1,2 +1,2 @@
 # lndex
-index knowledge information 
+学习知识新闻的索引
