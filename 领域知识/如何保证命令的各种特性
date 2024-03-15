@@ -1,0 +1,4 @@
+1. 不遗漏 - TODOLOG
+2. 唯一性 - 最初发起方的唯一标识
+3. 幂等性 - 状态机
+4. 原子性 - TODOLOG + COMMIT/ROLLBACK
